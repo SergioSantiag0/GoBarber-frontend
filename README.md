@@ -52,7 +52,7 @@ Para clonar e rodar essa aplicação, você precisará de ter instalado o <a hre
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/SergioSantiag0/GoBarber-frontend/tree/043d7d3006e090279a9cef78741bf35587a3dd03
+$ git clone https://github.com/SergioSantiag0/GoBarber-frontend
 
 # Entre no repositório
 $ cd GoBarber-frontend
@@ -68,8 +68,5 @@ $ yarn start
 <b>Este projeto está sob a licença MIT. Veja a <a href="https://github.com/SergioSantiag0/GoBarber-FullStack/blob/master/LICENSE">LICENÇA</a> para mais informações</b>
 
 <br>
-<br>
-
 <hr>
-
 <p>Feito com ❤ por Sérgio Santiago 👏 <a href="https://www.linkedin.com/in/s%C3%A9rgio-santiago-16427217a/">Entre em contato!</a><p>
