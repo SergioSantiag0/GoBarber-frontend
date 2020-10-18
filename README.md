@@ -21,7 +21,6 @@
 <br>
     <img src="./github/login.gif" alt="demo-web" height="500">
     <br>
-    <br>
     <img src="./github/web.gif" alt="demo-web" height="500">
 </div>
 <br>
